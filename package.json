@@ -30,7 +30,9 @@
     "zone.js": "^0.6.12",
     "angular2-in-memory-web-api": "0.0.14",
     "bootstrap": "^3.3.6",
-    "chai" :"*"
+    "chai" :"*",
+    "chai-spies":"*",
+    "mocha":"2.5.3"
   },
   "devDependencies": {
     "concurrently": "^2.0.0",
