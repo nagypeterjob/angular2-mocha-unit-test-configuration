@@ -1,9 +1,9 @@
 import { Injectable } from "@angular/core";
 
 export const DATA : any [] = [
-    {value:"aaa",key:"bbbb"},
-    {value:"aaa",key:"bbbb"},
-    {value:"aaa",key:"bbbb"}
+    {value:"Python",key:"0"},
+    {value:"C++",key:"1"},
+    {value:"Dart",key:"2"}
 ];
 
 

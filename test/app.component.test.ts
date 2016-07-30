@@ -1,4 +1,4 @@
-import 'zone.js';
+require('zone.js');
 import 'reflect-metadata';
 import { Component } from  "@angular/core";
 import {inject, beforeEachProviders} from  "@angular/core/testing";

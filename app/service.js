@@ -10,9 +10,9 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 };
 var core_1 = require("@angular/core");
 exports.DATA = [
-    { value: "aaa", key: "bbbb" },
-    { value: "aaa", key: "bbbb" },
-    { value: "aaa", key: "bbbb" }
+    { value: "Python", key: "0" },
+    { value: "C++", key: "1" },
+    { value: "Dart", key: "2" }
 ];
 var Service = (function () {
     function Service() {
